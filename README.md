@@ -1,14 +1,14 @@
-# Default starter for Gridsome
+### 部署地址
 
-This is the project you get when you run `gridsome create new-project`.
+项目地址 https://blob-frontend-74vs6ogqc.vercel.app/
 
-### 1. Install Gridsome CLI tool if you don't have
+stapi地址 http://106.75.17.227/
 
-`npm install --global @gridsome/cli`
+### 说明
 
-### 2. Create a Gridsome project
+vercel地址上图片无法正常显示，一直请求超时，浏览器直接打开图片地址是可以正常访问的，不知道怎么回事
 
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+
+
+
+
